@@ -13,7 +13,7 @@ API  地址：https://react.dev/reference/react
 
 ## 学习路线路
 
-对于 React 的学习主要分为三个大部分。  
+对于 React 的学习主要分为三个大部分。  1
 React 的基础使用方式。  
 React 的进阶使用方式。  
 React 的相关插件的使用方式。  
