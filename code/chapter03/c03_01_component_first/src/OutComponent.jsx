@@ -1,7 +1,7 @@
 const Outcomponent = () => {
     return (
         <div>
-            <h2>OutComponent</h2>
+            <h2>这个是外部的导出的一个组件 OutComponent</h2>
         </div>
     );
 }
